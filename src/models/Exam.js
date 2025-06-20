@@ -5,7 +5,7 @@ import { sequelize } from './db.js';
 export const Exam = sequelize.define('Exam', {
   id: { type: DataTypes.UUID, defaultValue: DataTypes.UUIDV4, primaryKey: true },  usuarioId: { 
     type: DataTypes.INTEGER, 
-    allowNull: true,
+    allowNull: true, // Revertido a true
     references: {
       model: 'usuarios',
       key: 'id'
