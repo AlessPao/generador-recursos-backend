@@ -181,13 +181,6 @@ npm run test:watch
 - Acceso a recursos educativos de calidad
 - Evaluaciones interactivas
 - Contenido adaptado al nivel de aprendizaje
-- Seguimiento de progreso
-
-### 🔧 **Para Administradores**
-- Panel de gestión de usuarios
-- Estadísticas de uso del sistema
-- Configuración de parámetros de IA
-- Monitoreo de rendimiento
 
 ## 🚀 Despliegue
 
